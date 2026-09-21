@@ -1,0 +1,3 @@
+id,class,x,y,heading_deg,speed,behavior,aggression
+1,pedestrian,70,1.2,0,0.5,constant,0.3
+2,bus,120,-1.3,180,8,constant,0.6

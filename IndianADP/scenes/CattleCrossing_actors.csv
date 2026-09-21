@@ -1,0 +1,2 @@
+id,class,x,y,heading_deg,speed,behavior,aggression
+1,animal,80,2.5,-80,1.8,constant,0.2
